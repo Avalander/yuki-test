@@ -94,8 +94,6 @@ each(tap, [
 })
 
 
-// test remove
-
 tap.test('remove', t => {
 	t.test('fails with Invalid path when trying to access a file outside the channel folder', t => {
 		const store = factory({})('data')('1')

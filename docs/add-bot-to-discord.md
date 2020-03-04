@@ -54,3 +54,9 @@ Lastly, copy the url you have in `Scopes` and open it in a browser. It should op
 ![](./images/discord-06.png)
 
 After that, the bot should be active on your server. You can try it by typint `@<name you gave to the app> joke`.
+
+## Next step
+
+Now we have the bot running in our local machine, but we would like to deploy it somewhere so that the bot keeps running when we turn off the computer (yeah, some people do that ¯\\_(ツ)_/¯).
+
+Continue to [deploy bot to heroku](./deploy-bot-to-heroku.md) to learn more about that.

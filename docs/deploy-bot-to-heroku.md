@@ -1,5 +1,7 @@
 # Deploy Yuki to Heroku with CircleCI
 
+Make sure to follow the steps to [set up a discord bot](./add-bot-to-discord.md) if you haven't done so yet.
+
 ## Create a new app in Heroku
 
 To start, log in to [heroku.com](https://heroku.com).

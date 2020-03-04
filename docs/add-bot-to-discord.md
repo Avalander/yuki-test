@@ -57,6 +57,6 @@ After that, the bot should be active on your server. You can try it by typint `@
 
 ## Next step
 
-Now we have the bot running in our local machine, but we would like to deploy it somewhere so that the bot keeps running when we turn off the computer (yeah, some people do that ¯\\_(ツ)_/¯).
+Now we have the bot running in our local machine, but we would like to deploy it somewhere so that the bot keeps running when we turn off the computer (yeah, some people do that ¯\\\_(ツ)\_/¯).
 
 Continue to [deploy bot to heroku](./deploy-bot-to-heroku.md) to learn more about that.

@@ -79,7 +79,7 @@ The job `heroku/deploy-via-git` comes from the `heroku` orb and does all the ste
 
 Note that we have added a filter to deploy only from the master branch, since we don't want to deploy work in progress.
 
-The complete `config.yml` file can be seen in the `.circleci` folder in repository.
+The complete `config.yml` file can be seen [here](../.circleci/config.yml).
 
 If you merge this changes to your master branch in GitHub, you should see CircleCI run the tests and deploy to Heroku.
 
